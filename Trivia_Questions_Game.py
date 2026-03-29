@@ -1,6 +1,6 @@
 #Trivia_Questions_GameV   by    Dr.M-Dev:
 #DATA BASES:
-from data import question_data          #importing dictionary-list of "text" & "answer" keys
+from database_1 import question_data          #importing dictionary-list of "text" & "answer" keys
 from database_2 import question_database2
 #_____________
 from question_model import Question     #importing Question CLASS
